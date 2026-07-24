@@ -242,7 +242,7 @@ $$
 
 建议的 $T_t=0.03T_i$ 
 
-![image-20260608175055505](C:\Bai.Black\学习资料\算法\新建文件夹\images\image_1.png)
+![image-20260608175055505](images\image_1.png)
 
 
 
@@ -507,7 +507,7 @@ $$
 $$
 ![image-20260608160857338](images\image9.png)
 
-![image-20260608161037679](C:\Bai.Black\学习资料\算法\新建文件夹\images\image10.png)
+![image-20260608161037679](images\image10.png)
 
 ### 规则
 
@@ -1162,3 +1162,7 @@ $$
 - 广义反计算方法不及预期，可能是ai的代码有史，待人工纠正
 - 平衡pitch环所有方案炸机，待用其他方法整定系数以测试
 - 目前只比较了同个控制器架构下不同方案性能，待比较同个场景下所有架构的最优方案的性能
+
+# 参考文献
+
+[1] Caparroza M, Soltesz K, Hägglund T, et al. Anti-Windup in PID Control: Review, Analysis, and New Tuning Directions[EB/OL]. arXiv:2606.01959, 2026.
